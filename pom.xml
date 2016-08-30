@@ -9,6 +9,8 @@
 	<modules>
         <module>../report-domain</module>
         <module>../report-repository</module>
+        <module>../core-domain</module>
+        <module>../core-repository</module>
     </modules>
 
     <parent>
@@ -17,6 +19,5 @@
         <version>1.0-SNAPSHOT</version>
         <relativePath>../fitech-core</relativePath>
     </parent>
-
 
 </project>
