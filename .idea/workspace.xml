@@ -32,8 +32,8 @@
       <file leaf-file-name="ReportRepositoryIntegrationTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../report-repository/src/test/java/com/fitechsoft/report/repository/ReportRepositoryIntegrationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="280">
+              <caret line="29" column="55" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -861,7 +861,7 @@
       <option name="presentableId" value="Default" />
       <updated>1472548323889</updated>
       <workItem from="1472548325070" duration="1784000" />
-      <workItem from="1472566359573" duration="10576000" />
+      <workItem from="1472566359573" duration="10681000" />
     </task>
     <task id="LOCAL-00001" summary="Refactory">
       <created>1472550059408</created>
@@ -884,7 +884,14 @@
       <option name="project" value="LOCAL" />
       <updated>1472577522266</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="milestore reached">
+      <created>1472577537394</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1472577537394</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -920,7 +927,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12360000" />
+    <option name="totallyTimeSpent" value="12465000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1400" height="709" extended-state="0" />
@@ -1287,8 +1294,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../report-repository/src/test/java/com/fitechsoft/report/repository/ReportRepositoryIntegrationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="280">
+          <caret line="29" column="55" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
