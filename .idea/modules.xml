@@ -3,10 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../core-domain/core-domain.iml" filepath="$PROJECT_DIR$/../core-domain/core-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../core-domain/core-domain.iml" filepath="$PROJECT_DIR$/../core-domain/core-domain.iml" />
       <module fileurl="file://$PROJECT_DIR$/../core-repository/core-repository.iml" filepath="$PROJECT_DIR$/../core-repository/core-repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../core-repository/core-repository.iml" filepath="$PROJECT_DIR$/../core-repository/core-repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fitech-core/fitech-core.iml" filepath="$PROJECT_DIR$/../fitech-core/fitech-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/../fitech-core/fitech-core.iml" filepath="$PROJECT_DIR$/../fitech-core/fitech-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/fitech-report.iml" filepath="$PROJECT_DIR$/fitech-report.iml" />
       <module fileurl="file://$PROJECT_DIR$/../report-domain/report-domain.iml" filepath="$PROJECT_DIR$/../report-domain/report-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../report-domain/report-domain.iml" filepath="$PROJECT_DIR$/../report-domain/report-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../report-repository/report-repository.iml" filepath="$PROJECT_DIR$/../report-repository/report-repository.iml" />
       <module fileurl="file://$PROJECT_DIR$/../report-repository/report-repository.iml" filepath="$PROJECT_DIR$/../report-repository/report-repository.iml" />
     </modules>
   </component>
