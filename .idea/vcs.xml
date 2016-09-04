@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../core-domain" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../core-flow" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../core-repository" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../fitech-core" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../report-domain" vcs="Git" />
