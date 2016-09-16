@@ -5,34 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f6179b8-e593-49a1-952d-a074853f5907" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../core-flow/src/main/java/com/fitechsoft/flow/core/ActivitiConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../core-flow/src/main/java/com/fitechsoft/flow/core/ResumeService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../core-flow/src/main/resources/processes/Developer_Hiring_with_jpa.bpmn20.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_1_4_192.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_spring_5_21_0.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../core-repository/src/main/java/com/fitechsoft/repository/core/ConcreatSubjectRepository.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../core-repository/src/main/java/com/fitechsoft/repository/core/ObjectRepository.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../core-repository/src/main/java/com/fitechsoft/repository/core/SubjectRepository.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../core-repository/src/test/java/com/fitechsoft/repository/core/SubjectRepositoryIntegrationTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_1_5_RELEASE.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../core-domain/core-domain.iml" afterPath="$PROJECT_DIR$/../core-domain/core-domain.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../core-flow/core-flow.iml" afterPath="$PROJECT_DIR$/../core-flow/core-flow.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../core-flow/pom.xml" afterPath="$PROJECT_DIR$/../core-flow/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../core-repository/core-repository.iml" afterPath="$PROJECT_DIR$/../core-repository/core-repository.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../core-repository/src/main/java/com/fitechsoft/repository/core/InfrastructureConfig.java" afterPath="$PROJECT_DIR$/../core-repository/src/main/java/com/fitechsoft/repository/core/InfrastructureConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../core-repository/src/test/java/com/fitechsoft/repository/core/ApplicationConfigTest.java" afterPath="$PROJECT_DIR$/../core-repository/src/test/java/com/fitechsoft/repository/core/ApplicationConfigTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fitech-core/fitech-core.iml" afterPath="$PROJECT_DIR$/../fitech-core/fitech-core.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fitech-core/pom.xml" afterPath="$PROJECT_DIR$/../fitech-core/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fitech-report.iml" afterPath="$PROJECT_DIR$/fitech-report.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../report-domain/report-domain.iml" afterPath="$PROJECT_DIR$/../report-domain/report-domain.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../report-repository/report-repository.iml" afterPath="$PROJECT_DIR$/../report-repository/report-repository.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../report-repository/src/main/java/com/fitechsoft/report/repository/DepartmentRepository.java" afterPath="$PROJECT_DIR$/../report-repository/src/main/java/com/fitechsoft/report/repository/DepartmentRepository.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../report-repository/src/main/java/com/fitechsoft/report/repository/InstitutionRepository.java" afterPath="$PROJECT_DIR$/../report-repository/src/main/java/com/fitechsoft/report/repository/InstitutionRepository.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../report-repository/src/main/java/com/fitechsoft/report/repository/ReportRepository.java" afterPath="$PROJECT_DIR$/../report-repository/src/main/java/com/fitechsoft/report/repository/ReportRepository.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../report-repository/src/main/java/com/fitechsoft/report/repository/UserRepository.java" afterPath="$PROJECT_DIR$/../report-repository/src/main/java/com/fitechsoft/report/repository/UserRepository.java" />
     </list>
     <ignored path="fitech-report.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1224,7 +1197,7 @@
       <workItem from="1473750457896" duration="400000" />
       <workItem from="1473824096632" duration="972000" />
       <workItem from="1474005232347" duration="508000" />
-      <workItem from="1474006516923" duration="11240000" />
+      <workItem from="1474006516923" duration="11305000" />
     </task>
     <task id="LOCAL-00001" summary="Refactory">
       <created>1472550059408</created>
@@ -1268,7 +1241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1474007207976</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="activit tests passed">
+      <created>1474017861884</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1474017861884</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1304,7 +1284,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45430000" />
+    <option name="totallyTimeSpent" value="45495000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1317,7 +1297,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="153" y="59" width="1400" height="943" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902467" sideWeight="0.4970545" order="6" side_tool="false" content_ui="tabs" />
@@ -1329,7 +1309,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902467" sideWeight="0.4970545" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902467" sideWeight="0.44992638" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902467" sideWeight="0.4970545" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32902467" sideWeight="0.47349042" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32902467" sideWeight="0.47349042" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902467" sideWeight="0.4970545" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1366,7 +1346,8 @@
     <MESSAGE value="get databasemetadata" />
     <MESSAGE value="template mode in jdbc done" />
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="activit tests passed" />
+    <option name="LAST_COMMIT_MESSAGE" value="activit tests passed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
