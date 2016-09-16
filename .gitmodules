@@ -1,0 +1,24 @@
+[submodule "report-domain"]
+	path = report-domain
+	url = https://github.com/fitechsoft/report-domain.git
+[submodule "report-repository"]
+	path = report-repository
+	url = https://github.com/fitechsoft/report-repository.git
+[submodule "report-service"]
+	path = report-service
+	url = https://github.com/fitechsoft/report-service.git
+[submodule "report-common"]
+	path = report-common
+	url = https://github.com/fitechsoft/report-common.git
+[submodule "core-common"]
+	path = core-common
+	url = https://github.com/fitechsoft/core-common.git
+[submodule "core-domain"]
+	path = core-domain
+	url = https://github.com/fitechsoft/core-domain.git
+[submodule "core-repository"]
+	path = core-repository
+	url = https://github.com/fitechsoft/core-repository.git
+[submodule "core-flow"]
+	path = core-flow
+	url = https://github.com/fitechsoft/core-flow.git

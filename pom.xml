@@ -6,11 +6,15 @@
     <artifactId>fitech-report</artifactId>
     <packaging>pom</packaging>
 
-	<modules>
-        <module>../report-domain</module>
-        <module>../report-repository</module>
-        <module>../core-domain</module>
-        <module>../core-repository</module>
+    <modules>
+        <module>report-domain</module>
+        <module>report-repository</module>
+        <module>report-common</module>
+        <module>report-service</module>
+        <module>core-common</module>
+        <module>core-domain</module>
+        <module>core-repository</module>
+        <module>core-flow</module>
     </modules>
 
     <parent>
