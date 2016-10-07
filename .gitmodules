@@ -22,3 +22,6 @@
 [submodule "core-flow"]
 	path = core-flow
 	url = https://github.com/fitechsoft/core-flow.git
+[submodule "report-flow"]
+	path = report-flow
+	url = https://github.com/fitechsoft/report-flow.git

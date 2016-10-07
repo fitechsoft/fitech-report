@@ -13,6 +13,7 @@
         <module>report-repository</module>
         <module>report-common</module>
         <module>report-service</module>
+        <module>report-flow</module>
         <module>core-common</module>
         <module>core-domain</module>
         <module>core-repository</module>
