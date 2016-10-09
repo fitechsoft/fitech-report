@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BPMNEditorStateService">
+    <stateFile url="file://$PROJECT_DIR$/report-flow/src/main/resources/processes/report.bpmn">
+      <view grid="false" />
+    </stateFile>
+  </component>
   <component name="CompilerConfiguration">
     <resourceExtensions />
     <wildcardResourcePatterns>
